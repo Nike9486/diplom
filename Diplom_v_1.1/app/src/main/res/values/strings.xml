@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Diplom_v_1.1</string>
+    <string name="You_Are">Вы:</string>
+    <string-array name="menu">
+        <item>Расписание</item>
+        <item>Учебный план</item>
+        <item>Успеваемость</item>
+    </string-array>
+    <string-array name="menu2">
+        <item>Показатели деятельности</item>
+        <item>Список групп</item>
+        <item>Отправка сообщений</item>
+    </string-array>
+    <string-array name="Days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Восресенье</item>
+    </string-array>
+</resources>
